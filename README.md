@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Xiaojue Zhou. Currently a PhD candidate studying cognitive neuroscience at University of California Irvine. I mainly use my Github for personal projects such as statistics and computer science class projects. 
+
+I worked with a lot of sensitive datasets protected by HIPPA (e.g. Monkey neuroimaging dataset and human neuroimaging dataset with identifiable information) so I am not sharing my code publically here. If you are interested in using some of the tools (Whole Brain functional connectivity with non-parametric testing, or multivariate pattern analysis, neuroimaging co-registration and processing pipeline) I described in my personal website, please email me directly. Please check out my personal website here: [zhouxiaojue.github.io](https://zhouxiaojue.github.io/) for the full project portfolio. 
+
+
+
 <!--
 **zhouxiaojue/zhouxiaojue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
