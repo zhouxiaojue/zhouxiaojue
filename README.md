@@ -1,22 +1,20 @@
-### Hi there 👋
+# Hi, I'm Xiaojue Zhou 👋
 
-I am Xiaojue Zhou. Currently a PhD candidate studying cognitive neuroscience at University of California Irvine. I mainly use my Github for personal projects such as statistics and computer science class projects. 
+I'm a neuroscientist and machine learning researcher, currently a postdoctoral researcher at the **University of California, San Francisco (UCSF)**. I earned my PhD in Cognitive Neuroscience from **UC Irvine**, with an undergraduate background in Statistics and Psychology from **UW–Madison**.
 
-I worked with a lot of sensitive datasets protected by HIPPA (e.g. Monkey neuroimaging dataset and human neuroimaging dataset with identifiable information) so I am not sharing my code publically here. If you are interested in using some of the tools (Whole Brain functional connectivity with non-parametric testing, or multivariate pattern analysis, neuroimaging co-registration and processing pipeline) I described in my personal website, please email me directly. Please check out my personal website here: [zhouxiaojue.github.io](https://zhouxiaojue.github.io/) for the full project portfolio. 
+My work connects neuroscience, statistical modeling, and machine learning to understand brain function and investigate clinically meaningful predictions. At UCSF, I collaborate with clinical teams on EEG/ECoG analysis and predictive modeling, including post-traumatic epilepsy and neurological recovery after cardiac arrest.
 
+My experience and interests include:
 
+- **Neural signal processing and time-series modeling:** preprocessing long-term EEG/ECoG recordings, extracting spectral and information-theoretic features, and developing LSTM and transformer models.
+- **Neuroimaging and cognition:** fMRI decoding, multivariate pattern analysis, functional connectivity, and Bayesian modeling of perception and decision-making.
+- **Human–AI collaboration:** studying human–AI teaming and exploring how models can support human expertise and decision-making.
+- **Scientific computing:** building reproducible analysis pipelines for complex, multimodal datasets using cloud and high-performance computing.
 
-<!--
-**zhouxiaojue/zhouxiaojue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Previously, I studied brain-network dynamics, sleep, and cognitive performance at **DEVCOM Army Research Laboratory**, and explored biologically inspired spiking neural networks as a **Machine Learning Engineer Intern at Deep Valley Labs**.
 
-Here are some ideas to get you started:
+**Tools I use:** Python, PyTorch, TensorFlow, R, MATLAB, SQL, Bash, Git, Docker, AWS, Slurm, FSL, FreeSurfer, and SPM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Much of my research involves sensitive clinical data or collaborative projects with sharing restrictions, so my public repositories represent only part of my work. If you're interested in a method, analysis pipeline, or potential collaboration, please get in touch to discuss what I can share.
+
+[Website & research portfolio](https://zhouxiaojue.github.io/) · [Email](mailto:zhouxiaojue22@gmail.com)
